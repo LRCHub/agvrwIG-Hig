@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ひめごと*クライシスターズ (みはりver.)",
+  "base_artist": "ONIMAI SISTERS（高野麻里佳・石原夏織・金元寿子・津田美波）",
+  "createdAt": "2026-01-01T00:43:18.737098Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひめごと*クライシスターズ(みはりver.)",
+      "artist": "ONIMAI SISTERS",
+      "has_synced": false,
+      "path": "select/pl_01_ひめごと_クライシスターズ(みはりver.)_ONIMAI_SISTERS.txt"
+    }
+  ]
+}
